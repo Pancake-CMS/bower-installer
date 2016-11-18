@@ -1,0 +1,24 @@
+{
+  "name": "bower-installer",
+  "homepage": "https://github.com/Pancake-CMS/bower-installer",
+  "authors": [
+    "Prateek Jadhwani <prateekjadhwani@users.noreply.github.com>"
+  ],
+  "description": "",
+  "main": "bower-installer.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "^1.7.0",
+    "paper-fab": "PolymerElements/paper-fab#^1.2.1",
+    "paper-dialog": "PolymerElements/paper-dialog#^1.1.0",
+    "paper-button": "PolymerElements/paper-button#^1.0.14",
+    "iron-icons": "PolymerElements/iron-icons#^1.2.0"
+  }
+}
